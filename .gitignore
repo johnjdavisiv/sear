@@ -1,0 +1,5 @@
+#Raw data (download from DOI instead)
+*.csv
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
